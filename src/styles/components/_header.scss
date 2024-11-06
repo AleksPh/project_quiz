@@ -1,0 +1,13 @@
+.header{
+  position: relative;
+  color: #8F8F00;
+  font-size: 16px;
+  font-family: Pop800;
+  text-align: center;
+  &__img{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+  }
+}
